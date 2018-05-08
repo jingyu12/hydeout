@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            문돌이의 데이터 분석 삽질 블로그
+title:            문돌이의 데이터 분석 블로그
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '데이터 분석을 공부하고 있는 대학원생입니다'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Jingyu'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/jingyu12
