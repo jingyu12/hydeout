@@ -1,6 +1,8 @@
 
 # About
 
+
+sidebar_link: true
 ![image.png](attachment:image.png)
 
 #### 안녕하세요! 반갑습니다. UNIST에서 Business Analytics 석사 과정 재학 중인 장진규입니다.
