@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: RandomForest를 사용한 Titanic 데이터 분석
+---
+
+
 # Advanced Datamining Assignment #8 - RandomForest
 
 #### Data Dictionary
